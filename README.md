@@ -35,3 +35,16 @@ Quantity – Number of items purchased
 Price_Per_Unit-price for each item
 
 Total_Amt – Total transaction value
+
+
+
+
+
+
+• Clothing emerges as the most popular       category with highest customer engagement
+
+• Sales vary across months, showing seasonal trends
+
+• Customer spending is distributed across multiple high-value buyers
+
+•Gender-based preferences are clearly   visible across categories
