@@ -4,6 +4,9 @@
 
 📌 Project Overview
 
+Database Name: retail_sales_db
+Table Name:retail_tb
+
 This project focuses on analyzing retail sales data using SQL to extract meaningful insights. The dataset includes information about transactions, customers, and products.
 
 The main goal is to perform data cleaning, transformation, and analysis to understand sales performance, customer behavior, and product trends.
