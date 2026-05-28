@@ -14,7 +14,10 @@ The main goal is to perform data cleaning, transformation, and analysis to under
 
 
 
+
 🗂️ Dataset Information
+
+
 
 The dataset contains the following columns:
 
@@ -41,7 +44,12 @@ Total_Amt – Total transaction value
 
 
 
+
+
+
+
 📈 Key Insights from SQL Analysis
+
 
 
 • Clothing emerges as the most popular     category with highest customer engagement
